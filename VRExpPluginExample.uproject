@@ -26,6 +26,14 @@
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": false
+		},
+		{
+			"Name": "WindowsMixedReality",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"HoloLens"
+			]
 		}
 	],
 	"TargetPlatforms": [
